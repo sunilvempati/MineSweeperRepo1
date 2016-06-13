@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MineSweeperDemoApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">Ok</string>
+    <string name="newgame">New Game</string>
+    <string name="cancel">Cancel</string>
+</resources>
